@@ -7,11 +7,6 @@ function convertToBool(text, fault = 'true') {
 
 // JID configuration with expiration and owner info
 const JID_CONFIG = {
-    "1234@newsletter": {
-    owner: "99999999999",
-    expires: "2025-01-01",
-    emojis: ["🤧", "🤧", "🤧", "❤️‍🩹", "💗"]
-  },
 
   "120363418537225451@newsletter": {
     owner: "94742274855", // ICT ❤️🧡💛💚💙
